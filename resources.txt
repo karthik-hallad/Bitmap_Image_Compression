@@ -1,0 +1,8 @@
+https://www.geeksforgeeks.org/image-compression-using-huffman-coding/
+https://www.youtube.com/watch?v=oxVauLakNcY
+
+https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/
+https://www.youtube.com/watch?v=co4_ahEDCho
+
+http://www.euhou.net/docupload/files/software/manuel/Bitmap_Format.html
+https://www.geeksforgeeks.org/basics-file-handling-c/
